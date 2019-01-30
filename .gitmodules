@@ -1,3 +1,6 @@
 [submodule "shape-producer"]
 	path = shape-producer
 	url = https://github.com/KIT-CMS/shape-producer.git
+[submodule "Dumbledraw"]
+	path = Dumbledraw
+	url = https://github.com/KIT-CMS/Dumbledraw.git
