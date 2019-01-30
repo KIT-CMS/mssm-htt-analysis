@@ -1,0 +1,3 @@
+[submodule "shape-producer"]
+	path = shape-producer
+	url = https://github.com/KIT-CMS/shape-producer.git
