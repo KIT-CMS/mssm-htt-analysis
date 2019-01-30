@@ -1,0 +1,17 @@
+*.swp                                                                                                                                                                                                               
+*.swo                                                                                                                                                                                                               
+*.pyc                                                                                                                                                                                                               
+*.root                                                                                                                                                                                                              
+*.xml                                                                                                                                                                                                               
+*.png                                                                                                                                                                                                               
+*.pdf                                                                                                                                                                                                               
+*.log                                                                                                                                                                                                               
+*.txt                                                                                                                                                                                                               
+.nfs*                                                                                                                                                                                                               
+fold*                                                                                                                                                                                                               
+*.json                                                                                                                                                                                                              
+*.yaml                                                                                                                                                                                                              
+*.html                                                                                                                                                                                                              
+output/                                                                                                                                                                                                             
+CMSSW_*/
+*~
