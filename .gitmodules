@@ -1,6 +1,15 @@
 [submodule "shape-producer"]
 	path = shape-producer
 	url = https://github.com/KIT-CMS/shape-producer.git
+	branch = master
+[submodule "datacard-producer"]
+	path = datacard-producer
+	url = https://github.com/KIT-CMS/datacard-producer.git
+	branch = master
 [submodule "Dumbledraw"]
 	path = Dumbledraw
-	url = https://github.com/KIT-CMS/Dumbledraw.git
+	url = git@github.com:KIT-CMS/Dumbledraw/tree/master
+[submodule "jdl_creator"]
+	path = jdl_creator
+	url = git@github.com:KIT-CMS/jdl_creator.git
+	branch = master
