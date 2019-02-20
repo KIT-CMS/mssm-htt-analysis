@@ -10,7 +10,6 @@
 .nfs*
 fold*
 *.json
-*.yaml
 *.html
 output/
 CMSSW_*/
