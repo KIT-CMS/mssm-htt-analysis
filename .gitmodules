@@ -8,7 +8,7 @@
 	branch = master
 [submodule "Dumbledraw"]
 	path = Dumbledraw
-	url = git@github.com:KIT-CMS/Dumbledraw/tree/master
+	url = git@github.com:KIT-CMS/Dumbledraw.git
 [submodule "jdl_creator"]
 	path = jdl_creator
 	url = git@github.com:KIT-CMS/jdl_creator.git
