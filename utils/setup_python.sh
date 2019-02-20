@@ -3,6 +3,7 @@ set +e
 
 declare -a modules=(
     $PWD/datacard-producer
+    $PWD/Dumbledraw
     $PWD/shape-producer
     $PWD/shape-producer/shape_producer/
     $PWD
