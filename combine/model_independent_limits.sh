@@ -10,9 +10,8 @@ source utils/setup_cmssw.sh
 if [[ $MODE == "mod_indep" ]]
 then
     # ggPhi limits
-        #"80,90,100,110,120,130,140,180,200,250,350,400,450,600,700,800,900,1200,1400,1500,1600,1800,2000,2300,2600,2900,3200" \
     combineTool.py -m \
-        "200" \
+        "80,90,100,110,120,130,140,180,200,250,350,400,450,600,700,800,900,1200,1400,1500,1600,1800,2000,2300,2600,2900,3200" \
         -M Asymptotic --rAbsAcc 0 --rRelAcc 0.0005 --boundlist input/mssm_boundaries.json -t -1 \
         --setPhysicsModelParameters r_ggH=0,r_bbH=0 --redefineSignalPOIs r_ggH -d output/${ERA}_mssmhtt/cmb/${ERA}_workspace.root \
         --there -n ".ggH" --parallel ${NUM_THREADS}
