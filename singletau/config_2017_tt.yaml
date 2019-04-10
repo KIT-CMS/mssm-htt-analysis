@@ -1,0 +1,5 @@
+branch_prefix: tt_
+
+output_directory: /ceph/mburkart/Artus17_Apr/tt_singletau_20190404
+
+shape_input: singletau/2017_tt/2017_tt_shapes.root
